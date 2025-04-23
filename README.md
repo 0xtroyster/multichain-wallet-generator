@@ -1,10 +1,1 @@
 # multichain-wallet-generator
-# multichain-wallet-generator
-# multichain-wallet-generator
-# multichain-wallet-generator
-# multichain-wallet-generator
-# multichain-wallet-generator
-# multichain-wallet-generator
-# multichain-wallet-generator
-# multichain-wallet-generator
-# multichain-wallet-generator
