@@ -1,0 +1,15 @@
+node_modules/
+
+solana_wallets_*.txt
+
+logs
+*.log
+npm-debug.log*
+
+pids
+*.pid
+*.seed
+*.pid.lock
+
+.DS_Store
+Thumbs.db 
